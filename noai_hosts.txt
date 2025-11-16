@@ -666,6 +666,7 @@
 0.0.0.0 netwrck.com
 0.0.0.0 civitaiarchive.com
 0.0.0.0 civarchive.com
+0.0.0.0 geekpedia.com
 
 
 # [.art sites]
@@ -2300,5 +2301,6 @@
 0.0.0.0 www.homediningkitchen.com
 0.0.0.0 www.psichologyanswers.com
 0.0.0.0 www.umatechnology.org
+
 
 
